@@ -1,6 +1,6 @@
 """
 This script cycles through the RGB .png files made with make_rgb.py to
-produce publication-quality 3-colour figures of the SiO emission.
+produce publication-quality 3-colour figures of the 13CO emission.
 
 Note: figures are high-quality, but file size is too large for manuscript.
 Run the following to compress:
