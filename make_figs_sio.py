@@ -69,6 +69,5 @@ for png in pngs:
 
         f.savefig('./../rgb_figs/'+filename+'.pdf')
         f.close()
-        i = i + 1
 
 os.chdir('./../../')
